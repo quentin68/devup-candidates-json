@@ -84,7 +84,7 @@
   "contract": "CDI",
   "salary": 42000,
     "techScores": {
-    "Java Core": 85,
+    "Java Core": 85
   }
 },
 {
@@ -110,7 +110,7 @@
   "contract": "Freelance",
   "salary": 400,
     "techScores": {
-    "Java Core": 97,
+    "Java Core": 97
   }
 },
 {
@@ -142,7 +142,7 @@
   "contract": "CDI",
   "salary": 36000,
     "techScores": {
-    "Java Core": 98,
+    "Java Core": 98
   }
 },
 
@@ -179,4 +179,5 @@
   "techScores": {}
 }
 ]
+
 
