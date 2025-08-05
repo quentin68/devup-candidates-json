@@ -1,0 +1,187 @@
+developers: Developer[] = [
+{
+  "id": 442,
+  "firstname": "Antoine",
+  "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+  "score": 82,
+  "qualification": "total",
+  "summary": "<div style=\"font-family: Arial, sans-serif; color: #ddd; background: #1e1e1e; padding: 20px; border-radius: 8px; max-width: 700px;\"><p><strong>Niveau & expérience :</strong> Confirmé Java (5+ ans)</p><p><strong>Spécialité :</strong> Développement back-end et API REST, amélioration et maintenance d’applications métiers (secteurs RH et fintech)</p><p><strong>Stack principale :</strong> Java (EE, 17), Spring Boot, React.js, Hibernate, GWT, Maven, Jenkins, PL/SQL, Oracle Database, AWS, Python</p><p><strong>Type de projets :</strong></p><ul><li>Développement et maintenance d’API REST performantes et sécurisées</li><li>Amélioration et évolution d’espaces clients (React.js)</li><li>Réfonte et optimisation d’applications de gestion RH (paie, DSN, gestion administrative)</li><li>Développement et refactoring dans des environnements agiles</li><li>Scripts d’automatisation (Python) et intégrations techniques (NodeJS)</li></ul><p><strong>Autonomie :</strong> Bonne autonomie dans un cadre agile, participation active aux cérémonies et à l’analyse des User Stories</p><p><strong>Encadrement d’équipe :</strong> Non mentionné</p><p><strong>DevUpScore :</strong> 82/100 → Très bon niveau Confirmé (projets exigeants, mission complexe autonome)</p><p style=\"color: #ffcc00;\">⚠ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</p></div>",
+  "level": "Senior",
+  "techs": ["Java", "Spring", "Maven", "Git", "React"],
+  "locations": ["Montpellier"],
+  "workMode": "Hybride",
+  "availability": "2025-08-25",
+  "contract": "CDI",
+  "salary": 50000,
+  "techScores": {
+    "Java Core": 93,
+    "Spring Boot": 96,
+    "Spring Data JPA": 84,
+    "Maven": 76,
+    "Git": 88
+  }
+},
+{
+  "id": 484,
+  "firstname": "Julien",
+  "avatar": "https://randomuser.me/api/portraits/men/48.jpg",
+  "score": 95,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau &amp; expérience :</strong> Expert Java (10+ ans) – Modernisation et optimisation d’applications legacy.</p>\n\n<p><strong>Spécialité :</strong> Refonte de systèmes vieillissants, amélioration de la performance et de la maintenabilité, mise en place de clean code et design patterns.</p>\n\n<p><strong>Stack principale :</strong></p>\n<ul>\n<li>Java</li>\n<li>Spring Boot</li>\n<li>Angular</li>\n<li>Kotlin</li>\n<li>Flutter</li>\n<li>Docker</li>\n<li>Git (self-hosted)</li>\n<li>CI/CD</li>\n<li>JBoss</li>\n<li>MariaDB</li>\n</ul>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n<li>Applications legacy complexes</li>\n<li>Microservices Java</li>\n<li>Simulateurs critiques</li>\n<li>Migration PHP vers Java/TypeScript</li>\n<li>Solutions full-stack Angular/Spring Boot</li>\n<li>Déploiements sur serveurs dédiés (Docker, Debian)</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Forte autonomie – rôle transverse, missions indépendantes, optimisation des pipelines et gestion d’hébergement complet (serveurs OVH, Docker).</p>\n\n<p><strong>Encadrement d’équipe :</strong> Oui – accompagnement et montée en compétences des équipes techniques (missions transverses).</p>\n\n<p><strong>DevUpScore :</strong> 95/100 – Expert stratégique → Capable de gérer des architectures complexes et d’assurer un rôle clé sur des projets critiques.</p>\n\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Expert",
+  "techs": [
+    "Java",
+    "Spring",
+    "Maven",
+    "Git",
+    "Angular"
+  ],
+  "locations": [
+    "Aix-en-Provence",
+    "Lyon",
+    "Paris"
+  ],
+  "workMode": "Hybride",
+  "availability": "2025-08-17",
+  "contract": "Freelance",
+  "salary": 500,
+  "techScores": {
+    "Java Core": 93,
+    "Spring Boot": 96,
+    "Spring Data JPA": 84,
+    "Maven": 81,
+    "Git": 90
+  }
+},
+{
+  "id": 668,
+  "firstname": "Lucas",
+  "avatar": "https://randomuser.me/api/portraits/men/42.jpg",
+  "score": 85,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau &amp; expérience :</strong> Junior Développeur Back-End (Master en cours – Génie de l’Informatique Logicielle)</p>\n<p><strong>Spécialité :</strong> Développement et optimisation d’applications web back-end</p>\n<p><strong>Stack principale :</strong></p>\n<ul>\n<li>Java</li>\n<li>Spring Boot</li>\n<li>MongoDB</li>\n<li>ASP.NET</li>\n<li>PHP</li>\n<li>JavaScript</li>\n</ul>\n<p><strong>Type de projets :</strong></p>\n<ul>\n<li>Développement de fonctionnalités back-end</li>\n<li>Intégration de bases de données</li>\n<li>Mise en place et tests unitaires</li>\n<li>Optimisation de performances</li>\n</ul>\n<p><strong>Autonomie :</strong> Missions encadrées, progression vers plus d’autonomie</p>\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n<p><strong>DevUpScore :</strong> 85/100 (Junior – Bon potentiel → Renfort backlog ✅ Mission encadrée)</p>\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Junior",
+  "techs": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "Maven",
+    "Angular",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "SQL (PostgreSQL, MySQL)",
+    "NoSQL (MongoDB)",
+    "React"
+  ],
+  "locations": [
+    "Rouen",
+    "Paris"
+  ],
+  "workMode": "Hybride",
+  "availability": "2025-10-01",
+  "contract": "CDI",
+  "salary": 42000,
+    "techScores": {
+    "Java Core": 85,
+  }
+},
+{
+  "id": 617,
+  "firstname": "Alexandre",
+  "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
+  "score": 88,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau & expérience :</strong> Intermediate (2–5 ans) – Développement Full-Stack Java et Web</p>\n\n<p><strong>Spécialité :</strong> Conception et développement d’applications web, intégration de données, optimisation et déploiement de solutions métiers</p>\n\n<p><strong>Stack principale :</strong> Java (Spring Boot, Java EE), MySQL, Oracle, Bootstrap, Thymeleaf, PHP (Zend), Webdev/Windev, Shell Unix</p>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n<li>Développement complet d’applications web (front & back)</li>\n<li>Conception et implémentation de bases de données relationnelles</li>\n<li>Applications pédagogiques, outils métiers et solutions internes</li>\n<li>Automatisation et intégration de processus (ETL, DataStage)</li>\n<li>Rédaction de spécifications techniques et fonctionnelles</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Autonome sur le cycle complet (analyse, conception, développement, tests et déploiement), habitué à évoluer dans un cadre encadré</p>\n\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n\n<p><strong>DevUpScore :</strong> 88/100 (Intermediate – Solide sur projets standards, mission autonome, encadrement ponctuel recommandé)</p>\n\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Intermediate",
+  "techs": [
+    "Java",
+    "Maven",
+    "Spring",
+    "Git",
+    "Angular"
+  ],
+  "locations": [
+    "Bordeaux"
+  ],
+  "workMode": "Hybride",
+  "availability": "2025-08-05",
+  "contract": "Freelance",
+  "salary": 400,
+    "techScores": {
+    "Java Core": 97,
+  }
+},
+{
+  "id": 666,
+  "firstname": "Edouard",
+  "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
+  "score": 84,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau & expérience :</strong> Confirmé – Développement Web & Mobile (Flutter, Angular, Spring Boot)</p>\n\n<p><strong>Spécialité :</strong> Développement d’applications web/mobiles sur mesure, intégration de solutions techniques complètes (authentification, paiement, monitoring)</p>\n\n<p><strong>Stack principale :</strong> Flutter, Angular, Spring Boot, Java, MySQL, Kubernetes, Ansible, GitLab CI/CD</p>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n  <li>Développement from scratch d’applications internes (tickets, congés, utilisateurs, livraisons)</li>\n  <li>Outils techniques spécifiques (Kafka, monitoring Kubernetes, modules d’intégration)</li>\n  <li>Sites vitrines et applications mobiles (paiement Stripe, gestion de stocks, fidélité client)</li>\n  <li>Intégration UI/UX responsive et optimisation SEO</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Capacité à livrer des projets complets en autonomie avec intégration agile, tout en travaillant efficacement en équipe</p>\n\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n\n<p><strong>DevUpScore :</strong> 84/100 → Confirmé solide → Mission autonome sur projets standards à complexes, potentiel d’évolution vers lead technique à moyen terme</p>\n\n<p><em>⚠️ Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Intermediate",
+  "techs": [
+    "Java",
+    "Spring Boot",
+    "Maven",
+    "Angular",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "NoSQL (MongoDB)"
+  ],
+  "locations": [
+    "Lille",
+    "Paris",
+    "Toulouse"
+  ],
+  "workMode": "Hybride, Remote",
+  "availability": "2025-08-03",
+  "contract": "CDI",
+  "salary": 36000,
+    "techScores": {
+    "Java Core": 98,
+  }
+},
+
+{
+  "id": 663,
+  "firstname": "Karim",
+  "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+  "score": 78,
+  "qualification": "total",
+  "summary": "<p><strong>Spécialité :</strong> Développement et maintenance d’applications Java/Spring en environnement Agile (SAFe®).</p>\n\n<p><strong>Stack principale :</strong> Java, Spring Framework, Méthodes Agiles (SAFe® Practitioner).</p>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n  <li>Développement de nouvelles fonctionnalités</li>\n  <li>Maintenance évolutive et corrective</li>\n  <li>Participation à des projets Agile à forte volumétrie</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Autonome sur les développements, rôle intégré dans une équipe Agile.</p>\n\n<p><strong>Encadrement d’équipe :</strong> Non mentionné.</p>\n\n<p><strong>DevUpScore :</strong> 78/100</p>\n<ul>\n  <li><strong>Solide Confirmé :</strong> Maîtrise de la stack</li>\n  <li>Bonne expérience en contexte Agile</li>\n  <li>Autonomie sur projets standards ✅ Mission autonome possible</li>\n</ul>\n\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Junior",
+  "techs": [
+    "Java",
+    "Spring Boot",
+    "Maven",
+    "Hibernate",
+    "Angular",
+    "Vue.js",
+    "Kubernetes",
+    "Docker",
+    "AWS",
+    "SQL (PostgreSQL, MySQL)",
+    "NoSQL (MongoDB)"
+  ],
+  "locations": [
+    "Toulouse",
+    "Rouen",
+    "Paris"
+  ],
+  "workMode": "Hybride, Remote",
+  "availability": "2025-11-22",
+  "contract": "CDI",
+  "salary": 45000,
+  "techScores": {}
+}
+
+
+
+
+
+
+];
