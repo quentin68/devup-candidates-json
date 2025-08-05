@@ -21,6 +21,7 @@
   "contract": "Freelance",
   "salary": 400,
     "techScores": {
-    "Java Core": 97,
+    "Java Core": 97
   }
+
 }
