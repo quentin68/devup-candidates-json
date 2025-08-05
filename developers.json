@@ -9,7 +9,7 @@
   "level": "Senior",
   "techs": ["Java", "Spring", "Maven", "Git", "React"],
   "locations": ["Montpellier"],
-  "workMode": ["Hybride"]
+  "workMode": ["Hybride"],
   "availability": "2025-08-25",
   "contract": "CDI",
   "salary": 50000,
@@ -41,7 +41,7 @@
     "Lyon",
     "Paris"
   ],
-  "workMode": "Hybride",
+  "workMode": ["Hybride"],
   "availability": "2025-08-17",
   "contract": "Freelance",
   "salary": 500,
@@ -79,7 +79,7 @@
     "Rouen",
     "Paris"
   ],
-  "workMode": "Hybride",
+  "workMode": ["Hybride"],
   "availability": "2025-10-01",
   "contract": "CDI",
   "salary": 42000,
@@ -105,7 +105,7 @@
   "locations": [
     "Bordeaux"
   ],
-  "workMode": "Hybride",
+  "workMode": ["Hybride"],
   "availability": "2025-08-05",
   "contract": "Freelance",
   "salary": 400,
@@ -137,7 +137,7 @@
     "Paris",
     "Toulouse"
   ],
-  "workMode": "Hybride, Remote",
+  "workMode": ["Hybride","Remote"],
   "availability": "2025-08-03",
   "contract": "CDI",
   "salary": 36000,
@@ -172,13 +172,14 @@
     "Rouen",
     "Paris"
   ],
-  "workMode": "Hybride, Remote",
+  "workMode": ["Hybride","Remote"],
   "availability": "2025-11-22",
   "contract": "CDI",
   "salary": 45000,
   "techScores": {}
 }
 ]
+
 
 
 
