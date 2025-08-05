@@ -9,7 +9,7 @@
   "level": "Senior",
   "techs": ["Java", "Spring", "Maven", "Git", "React"],
   "locations": ["Montpellier"],
-  "workMode": "Hybride",
+  "workMode": ["Hybride"]
   "availability": "2025-08-25",
   "contract": "CDI",
   "salary": 50000,
@@ -179,6 +179,7 @@
   "techScores": {}
 }
 ]
+
 
 
 
