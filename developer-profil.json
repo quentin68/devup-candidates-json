@@ -1,0 +1,26 @@
+{
+  "id": 617,
+  "firstname": "Alexandre",
+  "avatar": "https://randomuser.me/api/portraits/men/43.jpg",
+  "score": 88,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau & expérience :</strong> Intermediate (2–5 ans) – Développement Full-Stack Java et Web</p>\n\n<p><strong>Spécialité :</strong> Conception et développement d’applications web, intégration de données, optimisation et déploiement de solutions métiers</p>\n\n<p><strong>Stack principale :</strong> Java (Spring Boot, Java EE), MySQL, Oracle, Bootstrap, Thymeleaf, PHP (Zend), Webdev/Windev, Shell Unix</p>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n<li>Développement complet d’applications web (front & back)</li>\n<li>Conception et implémentation de bases de données relationnelles</li>\n<li>Applications pédagogiques, outils métiers et solutions internes</li>\n<li>Automatisation et intégration de processus (ETL, DataStage)</li>\n<li>Rédaction de spécifications techniques et fonctionnelles</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Autonome sur le cycle complet (analyse, conception, développement, tests et déploiement), habitué à évoluer dans un cadre encadré</p>\n\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n\n<p><strong>DevUpScore :</strong> 88/100 (Intermediate – Solide sur projets standards, mission autonome, encadrement ponctuel recommandé)</p>\n\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Intermediate",
+  "techs": [
+    "Java",
+    "Maven",
+    "Spring",
+    "Git",
+    "Angular"
+  ],
+  "locations": [
+    "Bordeaux"
+  ],
+  "workMode": "Hybride",
+  "availability": "2025-08-05",
+  "contract": "Freelance",
+  "salary": 400,
+    "techScores": {
+    "Java Core": 97,
+  }
+}
