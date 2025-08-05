@@ -1,4 +1,4 @@
-developers: Developer[] = [
+[
 {
   "id": 442,
   "firstname": "Antoine",
@@ -178,10 +178,5 @@ developers: Developer[] = [
   "salary": 45000,
   "techScores": {}
 }
+]
 
-
-
-
-
-
-];
