@@ -213,9 +213,44 @@
   "contract": "CDI",
   "salary": 50000,
   "techScores": {}
+},
+  {
+  "id": 681,
+  "firstname": "Lucas",
+  "avatar": "https://randomuser.me/api/portraits/men/37.jpg",
+  "score": 86,
+  "qualification": "total",
+  "summary": "<p><strong>Niveau & expérience :</strong> Junior Développeur Full Stack (0–2 ans d’expérience professionnelle)</p>\n\n<p><strong>Spécialité :</strong> Développement full stack web, refonte et maintenance applicative</p>\n\n<p><strong>Stack principale :</strong> Java, Vue.js, Angular, PHP, JavaScript, AWS (S3), TDD, Architecture Hexagonale, Cypress</p>\n\n<p><strong>Type de projets :</strong></p>\n<ul>\n  <li>Refonte et maintenance d’applications internes</li>\n  <li>Développement de fonctionnalités front/back sur projets web</li>\n  <li>Intégration de services cloud (AWS)</li>\n  <li>Bonnes pratiques (TDD, architecture hexagonale, CI/CD)</li>\n  <li>Présentation et suivi d’avancement auprès de clients</li>\n</ul>\n\n<p><strong>Autonomie :</strong> Capacité à travailler de manière autonome sur des tâches cadrées ; habitué à des environnements encadrés et collaboratifs</p>\n\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n\n<p><strong>DevUpScore :</strong> 86/100 (Junior – Bon potentiel → Missions encadrées, renfort backlog)</p>\n\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
+  "level": "Junior",
+  "techs": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "Maven",
+    "Angular",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "SQL (PostgreSQL, MySQL)",
+    "NoSQL (MongoDB)"
+  ],
+  "locations": [
+    "Montpellier",
+    "Marseille",
+    "Lyon",
+    "Paris"
+  ],
+  "workMode": "Hybride",
+  "availability": "2025-08-06",
+  "contract": "CDI",
+  "salary": 39000,
+  "techScores": {}
 }
 
+
 ]
+
 
 
 
