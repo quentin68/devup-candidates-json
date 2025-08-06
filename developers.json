@@ -182,7 +182,7 @@
   "id": 680,
   "firstname": "Alexis",
   "avatar": "https://randomuser.me/api/portraits/men/42.jpg",
-  "score": 150,
+  "score": 85,
   "qualification": "total",
   "summary": "<p><strong>Niveau & expérience :</strong> Confirmé – Développeur Full Stack (2–5 ans d’expérience)</p>\n<p><strong>Spécialité :</strong> Développement d’applications web et back-end, intégration CI/CD, conception d’architectures scalables et maintenables</p>\n<p><strong>Stack principale :</strong> Java, Kotlin, Spring Boot, React, Angular, TypeScript, Node.js, Python, MongoDB, MySQL, Docker, AWS, GitLab CI/Jenkins</p>\n<p><strong>Type de projets :</strong></p>\n<ul>\n  <li>Développement et maintenance d’applications critiques à fort trafic (assistant virtuel, solutions digitales sur mesure)</li>\n  <li>Mise en place et supervision de pipelines CI/CD sécurisés</li>\n  <li>Conception et implémentation d’APIs REST et microservices</li>\n  <li>Développement front-end responsive et optimisé (React, Angular)</li>\n</ul>\n<p><strong>Autonomie :</strong> Bonne autonomie en développement et intégration ; collaboration en Agile (Kanban, Scrum), participation active aux revues de code et pair programming</p>\n<p><strong>Encadrement d’équipe :</strong> Non mentionné</p>\n<p><strong>DevUpScore :</strong> 85/100</p>\n<p>➡ Solide niveau Confirmé – Capable de gérer des projets standards et complexes en autonomie, avec forte polyvalence back/front et DevOps.</p>\n<p><em>⚠️ Attention : Ce résumé est une synthèse rapide des informations et peut ne pas être exhaustif.</em></p>",
   "level": "Avancé",
@@ -216,6 +216,7 @@
 }
 
 ]
+
 
 
 
